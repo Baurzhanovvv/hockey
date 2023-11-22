@@ -1,6 +1,5 @@
 from django.db import models
 from django.utils.html import mark_safe
-from sorl.thumbnail import get_thumbnail
 
 # Create your models here.
 
